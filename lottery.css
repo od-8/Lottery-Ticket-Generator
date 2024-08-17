@@ -1,0 +1,57 @@
+h1 {
+    text-align: center;
+    font-weight: 800px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-decoration: underline;
+}
+form {
+    width: 60vw;
+    max-width: 500px;
+    min-width: 300px;
+    margin: 0 auto;
+    padding-bottom: 2em;
+}
+label {
+    display: block;
+    margin: 1px 0;
+    text-align: center;
+    font-weight: 600;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+input {
+    margin: 10px 0 0 0;
+    width: 100%;
+    min-height: 1em;
+    background-color: #1b1b32;
+    color: #f5f6f7;
+    border-color: #1b1b32;
+}
+select, button, p {
+    display: block;
+    margin: 10px auto;
+    text-align: center;
+}
+button, select {
+    font-size: 1.3rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 600;
+    background-color: orange;
+    border-color: black;
+    border-width: 3px;
+    border-color: orange;
+}
+p {
+    font-size: 1.5rem;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 600;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+}
+select {
+    border-radius: 0.5rem;
+    margin-bottom: 2em;
+}
+body {
+    background-color: #0a0a23;
+    color: #f5f6f7;
+}
